@@ -1,1 +1,3 @@
-setting up github and git iwth visual code
+setting up github and git with visual code
+chnaged
+git pull
