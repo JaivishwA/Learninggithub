@@ -1,0 +1,6 @@
+git cd
+git status
+git add step2.txt
+git commit -m ""
+git push origin main
+insert add commit push
